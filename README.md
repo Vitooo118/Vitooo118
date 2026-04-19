@@ -1,4 +1,4 @@
-# Como vai?👋 
+<img width="1243" height="325" alt="image" src="https://github.com/user-attachments/assets/55991989-0104-4cb9-8e2d-65805a4b9de7" /># Como vai?👋 
 <h2>
   <div>
     Estudante de C# 
@@ -22,8 +22,9 @@
 <br>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitooo118&rank_icon=github&hide=contribs,prs&show_icons=true&text_color=DEC9FF&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitooo118&hide=stars,commits,issues&show_icons=true&&theme=moltack&hide_border=false&border_color=592214&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitooo118&rank_icon=github&hide=contribs,prs&show_icons=true&text_color=DEC9FF&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitooo118&hide=stars,commits,issues&show_icons=true&&theme=moltack&hide_border=false&border_color=592214&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 <!-- Esse conteúdo logo abaixo eh o que vai mostrar quais linguagens eu já usei-->
 <img align="left" width="200px" src="https://64.media.tumblr.com/34fd2035f517d0e2158469a06135fda6/tumblr_p63l2jKxTi1t26zbao1_r1_75sq.gifv"/>
 
