@@ -1,4 +1,4 @@
-<img width="1243" height="325" alt="image" src="https://github.com/user-attachments/assets/55991989-0104-4cb9-8e2d-65805a4b9de7" />
+
 
 # Como vai?👋 
 
@@ -48,6 +48,8 @@
     <img width = 130 height = 130 src ="https://c.tenor.com/bmxESZp93QYAAAAC/tenor.gif"/>
   </div>
 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/55991989-0104-4cb9-8e2d-65805a4b9de7" />
 <!--
 **Vitooo118/Vitooo118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
