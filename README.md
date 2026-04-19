@@ -25,13 +25,22 @@
 <br>
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitooo118&rank_icon=github&hide=contribs,prs&show_icons=true&text_color=DEC9FF&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ <div align ="center">
+  
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitooo118&rank_icon=github&hide=contribs,prs&show_icons=true&text_color=DEC9FF&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ </div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitooo118&hide=stars,commits,issues&show_icons=true&&theme=moltack&hide_border=false&border_color=592214&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+ <div align ="center">
+   
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitooo118&hide=stars,commits,issues&show_icons=true&&theme=moltack&hide_border=false&border_color=592214&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ </div>
+ 
 <!-- Esse conteúdo logo abaixo eh o que vai mostrar quais linguagens eu já usei-->
-<img align="left" width="200px" src="https://64.media.tumblr.com/34fd2035f517d0e2158469a06135fda6/tumblr_p63l2jKxTi1t26zbao1_r1_75sq.gifv"/>
+<img align = "left" width="200px" src="https://64.media.tumblr.com/34fd2035f517d0e2158469a06135fda6/tumblr_p63l2jKxTi1t26zbao1_r1_75sq.gifv"/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitooo118&layout=donut&custom_title=Stacks&theme=omni"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitooo118&layout=donut&custom_title=Stacks&theme=omni"/>
 
 
 
