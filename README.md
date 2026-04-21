@@ -1,7 +1,7 @@
 
 
 # Como vai?👋 
-
+<h6 align="right">That Post is in portuguese - Brazil please traduct to your lang sorry!</h6>
 <h2>
   <div>
     Estudante de C# 
@@ -35,18 +35,38 @@
    
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitooo118&hide=stars,commits,issues&show_icons=true&&theme=moltack&hide_border=false&border_color=592214&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
  
- </div>
- <div align="center">
-  <img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitooo118&layout=donut&custom_title=Stacks&theme=omni"/>
+
+<div align="left">
+  <img align="left" width ="12%" id="github" src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=red"/>
+  <img align="left" width="8%" id ="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white">
+  <img align="left" width="4.7%" id= "C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white">
+  <img align="left" width="10%" id= "LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white">
+  <img align="left" width="16%" id= "Linux-Mint" src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=flat&logo=Linux%20Mint&logoColor=white">
+  <img align="left" width="16%" id= "Editor" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white">
+  <img align="left" width="11.2%" id= "AMD" src="https://img.shields.io/badge/AMD-%23000000.svg?style=flat&logo=amd&logoColor=white">
 </div>
-<!-- Esse conteúdo logo abaixo eh o que vai mostrar quais linguagens eu já usei-->
+<br>
+<h1></h1>
+
+<h2 align="center">Sobre Mim</h2>
+<p align="left">
+Atualmente cursando o 3º ano do médio.<br>
+Aprendendo o máximo possível de C# (Csharp).<br>
+Aspirante a Linux.<br>
+Aprofundando os conhecimentos de Git e GitHub.<br><br>
+</p>
+
+<p align="left">
+Já trabalhei de forma cooperativa em uma equipe <br>
+terceirizada de uma instituição financeira e <br>
+comecei a desenvolver uma ferramenta de automação <br>
+com o framework Selenium. No entanto, devido a <br>
+algumas complicações, não pude dar sequência ao <br>
+projeto. <br>
+</p>
+<p align="right">“O espírito humano precisa prevalecer sobre a tecnologia.” ~ <br> Albert Einstein.</p>
 
 
-
-  <img align = "" width="200px" src="https://64.media.tumblr.com/34fd2035f517d0e2158469a06135fda6/tumblr_p63l2jKxTi1t26zbao1_r1_75sq.gifv"/>
-  <div align = "right">
-    <img width = 130 height = 130 src ="https://c.tenor.com/bmxESZp93QYAAAAC/tenor.gif"/>
-  </div>
 
 
 
