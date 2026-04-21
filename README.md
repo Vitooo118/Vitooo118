@@ -1,6 +1,8 @@
 
-
 # Como vai?👋 
+
+
+
 <h6 align="right">That Post is in portuguese - Brazil please traduct to your lang sorry!</h6>
 <h2>
   <div>
@@ -66,9 +68,7 @@ projeto. <br>
 </p>
 <p align="right">“O espírito humano precisa prevalecer sobre a tecnologia.” ~ <br> Albert Einstein.</p>
 
-
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Até+mais👋)](https://git.io/typing-svg)
 
 <!--
 **Vitooo118/Vitooo118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
