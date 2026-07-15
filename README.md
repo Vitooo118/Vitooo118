@@ -29,13 +29,13 @@
 
  <div align ="center">
   
-   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitooo118&rank_icon=github&hide=contribs,prs&show_icons=true&text_color=DEC9FF&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+   [![Anurag's GitHub stats]( https://github-stats-extended.vercel.app/api?username=Vitooo118&rank_icon=github&hide=contribs,prs&show_icons=true&text_color=DEC9FF&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
  
  </div>
 
  <div align ="center">
    
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitooo118&hide=stars,commits,issues&show_icons=true&&theme=moltack&hide_border=false&border_color=592214&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Vitooo118&hide=stars,commits,issues&show_icons=true&&theme=moltack&hide_border=false&border_color=592214&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
  
 
 <div align="left">
@@ -69,6 +69,10 @@ projeto. <br>
 <p align="right">“O espírito humano precisa prevalecer sobre a tecnologia.” ~ <br> Albert Einstein.</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Até+mais👋)](https://git.io/typing-svg)
+
+
+
+![gif-cat](https://private-user-images.githubusercontent.com/74038190/238200121-6357eb37-3a0e-4efe-b015-ce8b14e910d6.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODQxNDI4OTYsIm5iZiI6MTc4NDE0MjU5NiwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDAxMjEtNjM1N2ViMzctM2EwZS00ZWZlLWIwMTUtY2U4YjE0ZTkxMGQ2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzE1VDE5MDk1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE5YzFkMjZiZmNlZWRlZDQyZWNhMTRmZDVlOWM2YWE2MTY0OGRkNDg0NzRjNWVkMGEzMTJmZTYzOGE2MWQwZGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.hZBCDx6QA7cMWRkNmNteg5CfDtzZEx6LDwbeocuRAjo)
 
 <!--
 **Vitooo118/Vitooo118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
